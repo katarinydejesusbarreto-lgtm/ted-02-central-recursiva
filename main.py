@@ -36,3 +36,5 @@ for _ in range(quantidade):
 
     except OperacaoInvalida:
         print('ERRO: OperacaoInvalida')
+    finally:
+        pass
